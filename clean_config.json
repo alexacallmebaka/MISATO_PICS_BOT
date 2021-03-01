@@ -1,0 +1,8 @@
+{"_description":"This is the config file but with all of the confidential information removed",
+"admin_ids": ["int placeholder", "int placeholder"], 
+"drive_folders":["<folder id>"],
+"name":"MisatoPics",
+"logpath":"MISATO_PICS_BOT.log",
+"denied_submissions_id": "<folder id>",
+"approved_submissions_id": "<folder id>",
+"submissions_folder_id":"<folder id>"}
