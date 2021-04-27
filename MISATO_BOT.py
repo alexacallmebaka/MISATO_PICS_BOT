@@ -1,8 +1,7 @@
 #MISATO_PICS now runs off of OpenMediaBot! Code can be found here: https://github.com/alexacallmebaka/OpenMediaBot
 
-"""
-Currently, the bot runs off of a local, non-packaged version of OpenMediaBot. This will be updated in the future, but for now we use a deprecated import statement. I am too scared to disrupt her running smmothly lol.
-"""
+#Currently, the bot runs off of a local, non-packaged version of OpenMediaBot. This will be updated in the future, but for now we use a deprecated import statement. I am too scared to disrupt her running smmothly lol.
+
 
 from OMB.twitter_bot import TwitterBot
 
